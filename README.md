@@ -1,4 +1,4 @@
 # data_visuals_page
 Data visualization page for Enigma Solutions
 
-Current work under uberProj folder. The main app I've been working on is titled demo_app_db
+This code contains a Dash app that uses data from a MongoDB to generate visualizations for gelocation and N-factor data.
